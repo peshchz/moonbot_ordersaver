@@ -39,3 +39,4 @@ pyinstaller --onefile --noconsole --hidden-import=pkg_resources.py2_warn C:\User
 
 ## Поблагодарить разработчика
 TRC20 TEAiv6gtdqjkxqndEYTG8ZYbQeMvfrtPAw
+https://t.me/KottAlex
