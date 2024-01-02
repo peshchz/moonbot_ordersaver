@@ -36,3 +36,6 @@ pyinstaller --onefile --noconsole C:\Users\Alex\Documents\_gitprojects\mbot\orde
 
 Компиляция ordersaver - запускается в скрытом режиме
 pyinstaller --onefile --noconsole --hidden-import=pkg_resources.py2_warn C:\Users\Alex\Documents\_gitprojects\mbot\ordersaver\ordersaver.py
+
+## Поблагодарить разработчика
+TRC20 TEAiv6gtdqjkxqndEYTG8ZYbQeMvfrtPAw
